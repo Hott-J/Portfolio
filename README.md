@@ -53,7 +53,7 @@
   - 기간: 2020.08 ~ 2020.11
   - 설명
     - 기존의 마스크 모델(2구분)에서 턱스크까지 구분하고자 3모델로 개선해봄.
-        - 모델 생성시 그림판, Google Teachable Machine 활용
+        - 모델 생성시 Google Teachable Machine 활용
     - Streamlit을 이용해 간단한 마스크 탐지 웹앱을 구현.
 
 - [카페 웹 서비스](https://github.com/FullCamp-Study/Cafe-WebService)
