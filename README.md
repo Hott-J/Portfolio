@@ -60,7 +60,7 @@
 
 - [카페 웹 서비스](https://github.com/FullCamp-Study/Cafe-WebService)
   - 기술 스택: Java(Spring), ORM(JPA), MySQL
-  - 기간: 2021.02 ~ ing
+  - 기간: 2021.02 ~ 2021.03
   - 설명
     - JPA를 이용한 도메인 설계 및 엔티티 구축.
     - 단위 테스트 진행하며 개발중에 있음.
@@ -74,6 +74,8 @@
     - RabbitMQ로 대용량 메시지 처리
     - Nginx를 앞단에 두어 로드밸런싱
     - Jenkins로 배포
+    - Docker
+    - ElasticSearch 도입 예정
     
 ### 스터디
 - [스프링 스터디](https://github.com/Hott-J/Spring-Study)
@@ -84,7 +86,7 @@
     - Git으로 스터디 진행과정 관리함.
 
 - [면접 스터디](https://github.com/Parkyunhwan/BackEnd_Study)
-  - 기간: 2021.04 ~ ing
+  - 기간: 2021.04 ~ 2021.07
   - 진행 방식
     - 매주 1회 온라인으로 2:2 방식으로 면접관 & 면접자 방식으로 진행.
     - Git으로 스터디 진행과정 관리함.
