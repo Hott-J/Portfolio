@@ -65,7 +65,7 @@
     - JPA를 이용한 도메인 설계 및 엔티티 구축.
     - 단위 테스트 진행하며 개발중에 있음.
 
-- [Restful API 설계 및 배포]()
+- [Restful API 설계 및 배포](https://github.com/Hott-J/restful-api-application-deploy)
   - 기술 스택: Java(Spring), PostgreSql, Nginx, Docker, GCP, RabbitMQ, Jenkins
   - 기간: 2021.04 ~ ing
   - 설명
