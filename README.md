@@ -69,8 +69,12 @@
   - 기술 스택: Java(Spring), PostgreSql, Nginx, Docker, GCP, RabbitMQ, Jenkins
   - 기간: 2021.04 ~ ing
   - 설명
-    - 개발중.
-
+    - RESTFul API 설계
+    - Google Cloud Platform
+    - RabbitMQ로 대용량 메시지 처리
+    - Nginx를 앞단에 두어 로드밸런싱
+    - Jenkins로 배포
+    
 ### 스터디
 - [스프링 스터디](https://github.com/Hott-J/Spring-Study)
   - 기간: 2021.01 ~ 2021.02
