@@ -95,3 +95,4 @@
 
 ### 자격증
 - 삼성 SW Expert A
+- AWS Cloud Practitioner
