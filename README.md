@@ -4,6 +4,7 @@
 
 - 이메일: jhj13062015@gmail.com
 - Github: https://github.com/Hott-J
+- LinkedIn: https://www.linkedin.com/in/hakjae-chung-80b706151/
 - [숭실대학교 스마트시스템소프트웨어학과](http://smartsw.ssu.ac.kr/) 2015/03 ~ 2021/08
 - 숭실대학교 빅데이터 연구실 2020/03 ~ 2020/11
   - Android, Bluetooth Network, BigData
