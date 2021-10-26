@@ -10,6 +10,9 @@
   - Android, Bluetooth Network, BigData
 - 파낙토스 뇌과학 연구소 2020/07 ~ 2020/08
   - Node MCU와 Android BLE 코드 개선
+- Interpark Next Commerce Lab DataService-Team Researcher & Developer 2021/06/01 ~ 2021/11/30
+  - 개인화추천서비스 API 개발
+- TmaxSoft WAPL Lab 2021/12/01 ~
   
 ### 기술 스택
 - 프론트엔드
