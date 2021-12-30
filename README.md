@@ -12,7 +12,7 @@
   - Node MCU와 Android BLE 코드 개선
 - Interpark Next Commerce Lab DataService-Team R&D 2021/06/01 ~ 2021/11/30
   - 개인화추천서비스 API 개발
-- TmaxSoft AI Lab R&D 2021/12/01 ~
+- TmaxAI Fintech RoboAdvisor R&D 2021/12/01 ~
   
 ### 기술 스택
 - 프론트엔드
